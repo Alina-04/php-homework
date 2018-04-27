@@ -1,0 +1,42 @@
+body{
+	background: #cff7ea;
+}
+.description{
+	float: left;
+}
+img{
+	width: 100%;
+}
+form{
+	margin: 30px;
+	text-align: right;
+	margin-right: 20%;
+}
+.bg-light{
+	background: #b0e2d2!important;
+	border-radius: 10px;
+    
+}
+.price{
+	margin-top: 7px;
+}
+.singleproduct{
+	text-align: center;
+	border: 2px solid white;
+	border-radius: 15px;
+	padding: 15px;
+	margin: 15px 5px;
+}
+#mail{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.access{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+
